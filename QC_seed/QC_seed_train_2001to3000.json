@@ -19023,7 +19023,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "기모",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -19050,7 +19050,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "스타일",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -19059,7 +19059,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "따뜻하네요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -19147,7 +19147,7 @@
       },
       {
         "term": "넥 부분",
-        "category": "사이즈/핏",
+        "category": "착용감",
         "polarity": -1,
         "evidence": "넥 부분",
         "evidence_span": [
@@ -19158,8 +19158,8 @@
         "confidence": 1
       },
       {
-        "term": "가벼움",
-        "category": "재질/원단",
+        "term": "가볍고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "가벼움",
         "evidence_span": null,
@@ -19167,7 +19167,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻해서",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -19182,19 +19182,7 @@
     "sentence": "남편 패딩 은근 가볍고 그런데 사이즈에 비해 팔길이가짧은듯ᆢ사이즈105로 교환햇어요",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": [
-          17,
-          20
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가볍다",
+        "term": "가볍고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍다",
@@ -19221,16 +19209,7 @@
     "sentence": "관리하기 쉽고 막 입을수있는 패딩이 필요했는데 가격이 저렴하면서도 괜찮은 패딩입니다. 기계세탁 가능하고 옷이 가벼우면서 따뜻해요. 다운은 입다보면 털이 빠져나와서 안에 입은 옷에 묻어나는데 충전재가 빠져나오지 않으면 좋겠어�요. 지퍼도 부드러워요.",
     "aspects": [
       {
-        "term": "관리하기 쉽다",
-        "category": "사후관리/서비스",
-        "polarity": 1,
-        "evidence": "관리하기 쉽다",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가격이 저렴하다",
+        "term": "가격이 저렴",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격이 저렴하다",
@@ -19251,7 +19230,7 @@
         "confidence": 1
       },
       {
-        "term": "옷이 가볍다",
+        "term": "옷이 가벼우면서",
         "category": "착용감",
         "polarity": 1,
         "evidence": "옷이 가볍다",
@@ -19260,7 +19239,7 @@
         "confidence": 1
       },
       {
-        "term": "옷이 따뜻하다",
+        "term": "따뜻해요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "옷이 따뜻하다",
@@ -19269,7 +19248,7 @@
         "confidence": 1
       },
       {
-        "term": "충전재가 빠져나오지 않아야 한다",
+        "term": "충전재가 빠져나오지 않으면",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "충전재가 빠져나오지 않아야 한다",
@@ -19278,8 +19257,8 @@
         "confidence": 1
       },
       {
-        "term": "지퍼가 부드럽다",
-        "category": "디자인/스타일",
+        "term": "지퍼도 부드러워요",
+        "category": "품질/내구성",
         "polarity": 1,
         "evidence": "지퍼가 부드럽다",
         "evidence_span": null,
@@ -19293,7 +19272,7 @@
     "sentence": "무거워요 하지만 따뜻하고 디자인 예쁘요",
     "aspects": [
       {
-        "term": "무거운",
+        "term": "무거워요",
         "category": "착용감",
         "polarity": -1,
         "evidence": "무거운",
@@ -19302,7 +19281,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻한",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻한",
@@ -19341,7 +19320,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하게",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -19362,9 +19341,9 @@
         "confidence": 1
       },
       {
-        "term": "무게",
+        "term": "무게감",
         "category": "사이즈/핏",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "무게",
         "evidence_span": [
           94,
@@ -19434,7 +19413,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -19458,7 +19437,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -19473,8 +19452,8 @@
     "sentence": "추울때 좋은데 입고 움직이면 약간 소리남",
     "aspects": [
       {
-        "term": "움직임",
-        "category": "착용감",
+        "term": "움직이면 약간 소리남",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "움직임",
         "evidence_span": null,
@@ -19482,14 +19461,11 @@
         "confidence": 1
       },
       {
-        "term": "소리",
+        "term": "추울때",
         "category": "재질/원단",
-        "polarity": -1,
-        "evidence": "소리",
-        "evidence_span": [
-          19,
-          21
-        ],
+        "polarity": 1,
+        "evidence": "움직임",
+        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -19500,7 +19476,7 @@
     "sentence": "아들 사줬는데 남편이 더 맘에 들어하네요 ~~양면으로 입을수 있고 따뜻하고 색상이 예쁘네요 ~~아주 가성비 최고네요 ^^",
     "aspects": [
       {
-        "term": "양면으로 입을수 있는 디자인",
+        "term": "양면으로 입을수 있고",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "양면으로 입을수 있는 디자인",
@@ -19509,7 +19485,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -19518,7 +19494,7 @@
         "confidence": 1
       },
       {
-        "term": "색상이 예쁘다",
+        "term": "색상이 예쁘네요",
         "category": "색상",
         "polarity": 1,
         "evidence": "색상이 예쁘다",
@@ -19545,28 +19521,19 @@
     "sentence": "따뜻하고 괸찬네유 조으네요 식구가 잘입을것같다고 소매부리와기장이좀,길어요 ㅠ",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "기장",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "길이",
-        "category": "사이즈/핏",
-        "polarity": -1,
-        "evidence": "길이",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -19578,7 +19545,7 @@
     "sentence": "남편과 운동할 때 입고 나갈 옷이 없다했을 때 어떤것이 좋을까 했는데 가볍고 따뜻하고 세탁을 하니 속에 털이 모피처럼 초미",
     "aspects": [
       {
-        "term": "가볍고 따뜻한",
+        "term": "가볍고 따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 따뜻한",
@@ -19588,7 +19555,7 @@
       },
       {
         "term": "세탁 후 속에 털이 모피처럼 초미",
-        "category": "재질/원단",
+        "category": "사후관리/서비스",
         "polarity": -1,
         "evidence": "세탁 후 속에 털이 모피처럼 초미",
         "evidence_span": null,
@@ -19614,10 +19581,19 @@
         "confidence": 1
       },
       {
-        "term": "싸고 질이 좋음",
+        "term": "질이 좋은데다",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "싸고 질이 좋음",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "싸고",
+        "category": "가격",
+        "polarity": -1,
+        "evidence": "움직임",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -19630,7 +19606,7 @@
     "aspects": [
       {
         "term": "빵빵하니 따뜻하다고",
-        "category": "사이즈/핏",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "빵빵하니 따뜻하다고",
         "evidence_span": [
@@ -19659,7 +19635,7 @@
     "sentence": "조금 크게 나온듯 하나 편하게 안에 두둑히 입고 올겨울 잘 보낼꺼 같습니다…배송만 조금 빨라졌음 좋겠어요",
     "aspects": [
       {
-        "term": "크기",
+        "term": "크게 나온듯",
         "category": "사이즈/핏",
         "polarity": 0,
         "evidence": "크기",
@@ -19668,7 +19644,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -19695,7 +19671,7 @@
     "sentence": "코몽트 헤비 패딩 네이비 110구매했어요. 정말 오래기다렸어요. 정말 헤빗하더라구요. 디자인도 핏도 좋와요 가격대비 맘에 들었어요. 따뜻하니 잘 입을것 같아요",
     "aspects": [
       {
-        "term": "헤비",
+        "term": "핏",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "헤비",
@@ -19731,7 +19707,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "따뜻하니 잘 입을것",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -19758,7 +19734,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가격이 차이가 나서",
         "category": "가격",
         "polarity": -1,
         "evidence": "가격",
@@ -19800,7 +19776,16 @@
         "confidence": 1
       },
       {
-        "term": "소매 길이",
+        "term": "두께",
+        "category": "재질/원단",
+        "polarity": 1,
+        "evidence": "움직임",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "소매가 너무 길어서",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "소매 길이",
@@ -19810,7 +19795,7 @@
       },
       {
         "term": "지퍼 재질",
-        "category": "재질/원단",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "지퍼 재질",
         "evidence_span": [
@@ -19827,7 +19812,7 @@
     "sentence": "아주좋아요 가격대비 가성비가 너무좋네요 품질 디자인 모두만족합니다 사이즈도 넉넉하고 색감도넘좋아요 날씨가 많이 추운 지금 딱입기좋은 제품입니다",
     "aspects": [
       {
-        "term": "가격대비",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격대비",
@@ -19905,7 +19890,16 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
+        "term": "따뜻합니다",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "움직임",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "싸이즈",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈",
@@ -19914,7 +19908,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -19929,7 +19923,7 @@
     "sentence": "배송 빠르고 핏 넘 이쁜데 지퍼가 하자가 있네요. 상품을 보낸때 좀더 검수해서 보내씀 조켓네여.",
     "aspects": [
       {
-        "term": "배송",
+        "term": "배송 빠르고",
         "category": "배송/서비스",
         "polarity": 1,
         "evidence": "배송",
@@ -20025,10 +20019,19 @@
         "confidence": 1
       },
       {
-        "term": "무게",
+        "term": "무거운것",
         "category": "착용감",
         "polarity": -1,
         "evidence": "무게",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "추운 한겨울에는 잘입을것",
+        "category": "재질/원단",
+        "polarity": 1,
+        "evidence": "움직임",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -20040,8 +20043,8 @@
     "sentence": "따뜻하고 조으네요.. 상표보고 칭구들이 차사니 주더냐고 놀리긴햇찌만..ㅋㅋ 옷재질은 쪼금 살짝 싼티나보일수잇긴한데 레드라 이뻐요",
     "aspects": [
       {
-        "term": "따뜻하고 조으",
-        "category": "사이즈/핏",
+        "term": "따뜻하고 조으네요",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻하고 조으",
         "evidence_span": [
@@ -20062,6 +20065,15 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
+      },
+      {
+        "term": "레드",
+        "category": "색상",
+        "polarity": 1,
+        "evidence": "움직임",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
       }
     ]
   },
@@ -20070,7 +20082,7 @@
     "sentence": "우리식구 3명꺼시켜습니다 다들 너무따뜻하고 솜이빵빵하다고 지금까지 카파 미국꺼만시켰는데 폭스바겐이 좋은걸이제 알았습니다 올겨울 우리식구들 따뜻하게 보낼것같습니다 감사합니다^^",
     "aspects": [
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -20118,7 +20130,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -20158,7 +20170,7 @@
       },
       {
         "term": "주머니",
-        "category": "디자인/스타일",
+        "category": "착용감",
         "polarity": -1,
         "evidence": "주머니",
         "evidence_span": [
@@ -20169,16 +20181,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
-        "category": "가격",
-        "polarity": 0,
-        "evidence": "가격",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "배송",
+        "term": "1:1 문의",
         "category": "배송/서비스",
         "polarity": -1,
         "evidence": "배송",
@@ -20193,7 +20196,7 @@
     "sentence": "옷이 무겁지 않고 지금 간절기에도 딱이네요 무안하고 잘 입어질것 같아요 이쁘게 입을게요",
     "aspects": [
       {
-        "term": "옷",
+        "term": "무겁지 않고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "옷",
@@ -20250,7 +20253,7 @@
     "sentence": "주문할때 네이비 색상 밖에 없었는데 출고 전에 그레이가 있어 색상 교환할려 했으나 이미 출고 진행중이라 물건 받고 나서 교환을 하려했으나... 직접 보니 네이비색상이 너무 이뻐 그냥 입기로 했어용 퍼플 색상의 네이비라 너무 이뻐용 ㅎㅎㅎ 네이비 선택하길 잘한듯 가볍고 따뜻해용",
     "aspects": [
       {
-        "term": "색상",
+        "term": "네이비색상",
         "category": "색상",
         "polarity": 1,
         "evidence": "색상",
@@ -20262,7 +20265,7 @@
         "confidence": 1
       },
       {
-        "term": "가볍고 따뜻함",
+        "term": "가볍고 따뜻해용",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 따뜻함",
@@ -20277,7 +20280,7 @@
     "sentence": "배송잘받았어요 이가격에 두벌인데 품질도넘좋구요 기본디자인이라 아무옷에나잘어울리네요~핏도이뻐요",
     "aspects": [
       {
-        "term": "받았어요",
+        "term": "배송잘받았어요",
         "category": "배송/서비스",
         "polarity": 1,
         "evidence": "받았어요",
@@ -20343,8 +20346,8 @@
     "sentence": "생각보다 얇고 지퍼가 잘안되네요",
     "aspects": [
       {
-        "term": "양쪽으로 넓게 퍼지는 정도",
-        "category": "사이즈/핏",
+        "term": "지퍼가 잘안되네요",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "양쪽으로 넓게 퍼지는 정도",
         "evidence_span": null,
@@ -20352,7 +20355,7 @@
         "confidence": 1
       },
       {
-        "term": "원단 두께 및 질감",
+        "term": "생각보다 얇고",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단 두께 및 질감",
@@ -20401,15 +20404,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "부어보임",
-        "category": "디자인/스타일",
-        "polarity": 1,
-        "evidence": "부어보임",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -20430,8 +20424,8 @@
         "confidence": 1
       },
       {
-        "term": "옷",
-        "category": "사후관리/서비스",
+        "term": "품질",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "옷",
         "evidence_span": [
@@ -20448,7 +20442,7 @@
     "sentence": "새상품이라 각이살아서 그렇지만 좀 입다보면 괜찬아 지겠죠 카키색이 젤로 예뻐요 품질도 좋아요",
     "aspects": [
       {
-        "term": "각이 살아있는 상태",
+        "term": "각이 살아서",
         "category": "사이즈/핏",
         "polarity": 0,
         "evidence": "각이 살아있는 상태",
@@ -20529,6 +20523,15 @@
         "confidence": 1
       },
       {
+        "term": "구김",
+        "category": "재질/원단",
+        "polarity": -1,
+        "evidence": "움직임",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "품질",
         "category": "품질/내구성",
         "polarity": -1,
@@ -20571,7 +20574,7 @@
         "confidence": 1
       },
       {
-        "term": "이가격",
+        "term": "가격",
         "category": "가격",
         "polarity": 1,
         "evidence": "이가격",
@@ -20589,21 +20592,9 @@
     "sentence": "처음주문시 95사이즈가 넘 커 90으로 주문했는데 반품 교환도 빠르게 처리되어 감사해요.~ 아직 겨울이 아니라 제품은 느끼는거는 잘 모르겠지만 초감은 괜찮은것 갔네요. 가격은 브랜드 이름이 있어 적당하네요 겨울에 잘 입겠어요. 더좋은 품질 가격 제품 부탁합니다.~",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 1,
-        "evidence": "사이즈",
-        "evidence_span": [
-          8,
-          11
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "가격",
         "category": "가격",
-        "polarity": 0,
+        "polarity": 1,
         "evidence": "가격",
         "evidence_span": [
           94,
@@ -20613,7 +20604,7 @@
         "confidence": 1
       },
       {
-        "term": "교환/반품",
+        "term": "반품 교환",
         "category": "배송/서비스",
         "polarity": 1,
         "evidence": "교환/반품",
@@ -20641,7 +20632,7 @@
       },
       {
         "term": "옷태",
-        "category": "착용감",
+        "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "옷태",
         "evidence_span": [
@@ -20658,7 +20649,7 @@
     "sentence": "빨간색이 좋아하는 새빨강이라 우선 이쁘구요 치수가 좀큽니다.가슴둘레치수가안나와있어서 평소 외투77로 주문했는데,담날 택떼고 입어보니크네요. 168-64인데 넘크고,무겁네요.택만 안땠으면 교환하고싶은데... 아직 안추워서 입어보고나가지도못하고있네요ㅜㅜ 저보다 크신분이 입으면 보기더좋을듯하네요.따시기는 엄청따뜻할듯해요.색상도이쁘고.커서잘입어질지 아쉽네요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "치수",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈",
@@ -20679,7 +20670,7 @@
         "confidence": 1
       },
       {
-        "term": "무게",
+        "term": "무겁네요",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "무게",
@@ -20688,7 +20679,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻할듯해요",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -20703,7 +20694,7 @@
     "sentence": "몇개중에 진짜로 젤로 가볍더라고요. 색깔도 화면보다 실물로보니 더 진한카기색이네요 디자인 예뻐요.아들도 맘에들어하고요 사이즈도 정사이즈인것 같아요.",
     "aspects": [
       {
-        "term": "가볍다",
+        "term": "가볍더라고요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍다",
@@ -20712,7 +20703,7 @@
         "confidence": 1
       },
       {
-        "term": "색상",
+        "term": "색깔",
         "category": "색상",
         "polarity": 1,
         "evidence": "색상",
@@ -20763,7 +20754,7 @@
         "confidence": 1
       },
       {
-        "term": "가격대비 디자인",
+        "term": "디자인",
         "category": "디자인/스타일",
         "polarity": 0,
         "evidence": "가격대비 디자인",
@@ -20794,15 +20785,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "착용감",
-        "category": "착용감",
-        "polarity": 1,
-        "evidence": "착용감",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -20812,7 +20794,7 @@
     "aspects": [
       {
         "term": "두께감",
-        "category": "사이즈/핏",
+        "category": "재질/원단",
         "polarity": 1,
         "evidence": "두께감",
         "evidence_span": [
@@ -20835,7 +20817,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "저렴하게",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -20852,7 +20834,7 @@
       {
         "term": "색상",
         "category": "색상",
-        "polarity": 1,
+        "polarity": 0,
         "evidence": "색상",
         "evidence_span": [
           0,
@@ -20862,7 +20844,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가격도 저렴",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -20874,7 +20856,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "무지 가볍다고 하네요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -20883,7 +20865,7 @@
         "confidence": 1
       },
       {
-        "term": "품질/내구성",
+        "term": "솜털",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "품질/내구성",
@@ -20898,7 +20880,7 @@
     "sentence": "사진보다 훨씬 두꺼워요! 레이어드 잘하면 한겨울에도 충분히 입을수 있을거 같네요ㅎㅎ",
     "aspects": [
       {
-        "term": "두께",
+        "term": "두꺼워요!",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "두께",
@@ -20907,9 +20889,9 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "한겨울에도 충분히 입을수 있을거 같네요",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 1,
         "evidence": "원단",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -20922,8 +20904,8 @@
     "sentence": "옷은 잘받았습니다 털양이 우선 작구요 옷재질이 아주 얕습니다 조심해서 입어야 될것같습니다.",
     "aspects": [
       {
-        "term": "작다",
-        "category": "사이즈/핏",
+        "term": "털양",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "작다",
         "evidence_span": null,
@@ -20949,16 +20931,25 @@
     "sentence": "남편 사줬는데 앏고 가볍고 따뜻하하고 하네요~ 디자인도 슬림해 보이고 좋아요~^^",
     "aspects": [
       {
-        "term": "صغ‌小微小",
-        "category": "사이즈/핏",
+        "term": "따뜻하하고",
+        "category": "착용감",
         "polarity": 1,
-        "evidence": "صغ‌小微小",
+        "evidence": "",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "가볍고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "슬림해 보이고",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -20966,6 +20957,15 @@
           26,
           29
         ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "얇고",
+        "category": "재질/원단",
+        "polarity": 1,
+        "evidence": "",
+        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -20977,18 +20977,9 @@
     "aspects": [
       {
         "term": "가볍고 따뜻함",
-        "category": "디자인/스타일",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 따뜻함",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -21006,21 +20997,9 @@
         "confidence": 1
       },
       {
-        "term": "옆트임",
-        "category": "디자인/스타일",
-        "polarity": -1,
-        "evidence": "옆트임",
-        "evidence_span": [
-          80,
-          83
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "이중지퍼",
         "category": "디자인/스타일",
-        "polarity": 0,
+        "polarity": 1,
         "evidence": "이중지퍼",
         "evidence_span": [
           98,
@@ -21060,7 +21039,7 @@
         "confidence": 1
       },
       {
-        "term": "단추",
+        "term": "똑딱이단추",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "단추",
@@ -21084,7 +21063,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -21153,8 +21132,8 @@
     "sentence": "진짜 깜놀..설마했는데 잠바가 2개왔네요 하나는 양면으로 색상이 너무 맘에들어요 남편 너무 좋아해서 진짜 너무 좋아요 옷도 가볍고 따뜻하고 디자인도 좋고..추천합니다",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
+        "term": "가볍고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "사이즈",
         "evidence_span": null,
@@ -21174,7 +21153,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "양면",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -21186,7 +21165,7 @@
         "confidence": 1
       },
       {
-        "term": "가볍고 따뜻한",
+        "term": "가볍고 따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 따뜻한",
@@ -21231,25 +21210,16 @@
     "sentence": "생각햇던거보다는 조금 얇지만 좋습니다. 네이비 색인가?? 그게 진심 더 이쁘긴 하네요ㅎㅎㅎ 그래도 일할때 입을라고 산거라서 그런지 활동도 편하고 좋아요",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "원단",
+        "term": "조금 얇지만",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "원단",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "색상",
+        "term": "네이비 색",
         "category": "색상",
         "polarity": 1,
         "evidence": "색상",
@@ -21258,7 +21228,7 @@
         "confidence": 1
       },
       {
-        "term": "활동성",
+        "term": "활동도 편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "활동성",
@@ -21285,7 +21255,7 @@
         "confidence": 1
       },
       {
-        "term": "두께",
+        "term": "두껍지도 얇지도 않고",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "두께",
@@ -21294,7 +21264,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "완전 편하대요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -21355,18 +21325,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "맘에들어합니다",
-        "category": "디자인/스타일",
-        "polarity": 1,
-        "evidence": "맘에들어합니다",
-        "evidence_span": [
-          25,
-          32
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -21382,18 +21340,6 @@
         "evidence_span": [
           10,
           12
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "겨울",
-        "category": "착용감",
-        "polarity": -1,
-        "evidence": "겨울",
-        "evidence_span": [
-          51,
-          53
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -21427,6 +21373,18 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
+      },
+      {
+        "term": "지퍼",
+        "category": "품질/내구성",
+        "polarity": -1,
+        "evidence": "품질",
+        "evidence_span": [
+          17,
+          19
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
       }
     ]
   },
@@ -21437,7 +21395,7 @@
       {
         "term": "색상",
         "category": "색상",
-        "polarity": 1,
+        "polarity": -1,
         "evidence": "색상",
         "evidence_span": [
           4,
@@ -21513,7 +21471,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -21522,7 +21480,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "부들부들하고",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "원단",
@@ -21531,7 +21489,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "무게감",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -21645,7 +21603,7 @@
         "confidence": 1
       },
       {
-        "term": "털",
+        "term": "털이 많이 날려요",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "털",
@@ -21657,9 +21615,9 @@
         "confidence": 1
       },
       {
-        "term": "세탁",
-        "category": "사후관리/서비스",
-        "polarity": 0,
+        "term": "품질",
+        "category": "품질/내구성",
+        "polarity": -1,
         "evidence": "세탁",
         "evidence_span": [
           36,
@@ -21723,17 +21681,8 @@
         "confidence": 1
       },
       {
-        "term": "택 제거",
-        "category": "배송/서비스",
-        "polarity": -1,
-        "evidence": "택 제거",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "방송과 다르다",
-        "category": "색상",
+        "category": "배송/서비스",
         "polarity": -1,
         "evidence": "방송과 다르다",
         "evidence_span": null,
@@ -21747,7 +21696,7 @@
     "sentence": "잠깐 나갈때 입기편한 뽀글이자켓 보다가 발견했어요. 가격도 착하고 가볍게 입을수 있는 플리스 자켓도 있어 여러모로 활용될줄 알았어요^^ 105사이즈인데 사이즈가 많이 작구요 겨울이라 이너를 두꺼운걸 입으니 사이즈가 너무 작네요. 검은 옷에 잠깐 입어봤는데 털빠짐도 심하고 털도 묻어나와 좀그러네요. 그리고 다른 뽀글이옷도 있지만 이뽀글이는 털이 많이 까끌까끌해요 감촉이 너무 안좋아요~.베이지랑 검정중 오랜시간 고민했는데 베이지 색상 실패네요 뽀얀색이라 때 금방타요 따뜻하지도 않아서 한겨울에 못 입을거같아요^^",
     "aspects": [
       {
-        "term": "사이즈가 작다",
+        "term": "사이즈",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈가 작다",
@@ -21768,7 +21717,7 @@
         "confidence": 1
       },
       {
-        "term": "감촉이 좋지 않다",
+        "term": "감촉",
         "category": "착용감",
         "polarity": -1,
         "evidence": "감촉이 좋지 않다",
@@ -21779,6 +21728,18 @@
       {
         "term": "색상",
         "category": "색상",
+        "polarity": -1,
+        "evidence": "색상",
+        "evidence_span": [
+          240,
+          242
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "따뜻하지도 않아서",
+        "category": "착용감",
         "polarity": -1,
         "evidence": "색상",
         "evidence_span": [
@@ -21804,7 +21765,19 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "내피",
+        "category": "사이즈/핏",
+        "polarity": -1,
+        "evidence": "색상",
+        "evidence_span": [
+          240,
+          242
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "본품",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -21813,7 +21786,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "내피",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -21830,15 +21803,6 @@
     "rid": 20758,
     "sentence": "바람이 들어오지는 않을것 같은데 밑단둘레긴 좀 작은듯 좀 끼는거 같아요 조금만 더 넓었으면 좋았을거 같구요 옷 자체가 커서 함께 입어도 부담은 없어 좋네요",
     "aspects": [
-      {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
       {
         "term": "밑단둘레",
         "category": "사이즈/핏",
@@ -21906,7 +21870,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -21935,7 +21899,7 @@
       {
         "term": "안감",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "안감",
         "evidence_span": [
           0,
@@ -21957,7 +21921,7 @@
         "confidence": 1
       },
       {
-        "term": "길이",
+        "term": "팔이길어서",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "길이",
@@ -21984,7 +21948,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "플리스 어깨쪽",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -21999,6 +21963,18 @@
     "sentence": "가볍고 좋은데 가격 넘 착하네요. 겨울에 입긴 좀 작을 것 같아 교환 신청했어요.",
     "aspects": [
       {
+        "term": "가볍고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "가격",
+        "evidence_span": [
+          8,
+          10
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "가격",
         "category": "가격",
         "polarity": 1,
@@ -22011,7 +21987,7 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
+        "term": "겨울에 입긴 좀 작을 것 같아",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈",
@@ -22062,6 +22038,30 @@
         "confidence": 1
       },
       {
+        "term": "가볍고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "가격",
+        "evidence_span": [
+          8,
+          10
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "따뜻하다",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "가격",
+        "evidence_span": [
+          8,
+          10
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "가격",
         "category": "가격",
         "polarity": 1,
@@ -22080,7 +22080,7 @@
     "sentence": "충전제가 구스나 덕 아니라서 구매했는데 이옷 충전제도 스멀스멀 나와서 당황했네요 가격대비 만족했는데 구매후 남편이 오늘 처음 착용했는데 ㅎㅎ 실망",
     "aspects": [
       {
-        "term": "충전제",
+        "term": "충전제도 스멀스멀 나와서",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "충전제",
@@ -22146,19 +22146,10 @@
         "confidence": 1
       },
       {
-        "term": "색상",
-        "category": "색상",
+        "term": "이젠 매장가서보고 사야지 믿을게 없네요",
+        "category": "배송/서비스",
         "polarity": -1,
         "evidence": "색상",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가격",
-        "category": "가격",
-        "polarity": -1,
-        "evidence": "가격",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -22248,8 +22239,8 @@
         "confidence": 1
       },
       {
-        "term": "무게",
-        "category": "재질/원단",
+        "term": "무거운게",
+        "category": "착용감",
         "polarity": -1,
         "evidence": "무게",
         "evidence_span": null,
@@ -22275,7 +22266,7 @@
     "sentence": "싼게 비지떡 입니다. OO쇼핑 믿고 쌌는데 앞으로는 믿지 못하겠습니다. 털이 너무 빠져서 입지를 못할 지경입니다. 입고나면 안쪽 옷에 묻은 이물질과 빠진 털과 먼지 때문에 옷을 입지못할 지경입니다. 혹시나 몇번을 세탁을 했는데도 똑같네요. 결국 못입고 버립니다.",
     "aspects": [
       {
-        "term": "가격",
+        "term": "싼게 비지떡",
         "category": "가격",
         "polarity": -1,
         "evidence": "가격",
@@ -22284,7 +22275,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "털이 너무 빠져서",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -22293,8 +22284,17 @@
         "confidence": 1
       },
       {
-        "term": "품질",
+        "term": "털과 먼지",
         "category": "품질/내구성",
+        "polarity": -1,
+        "evidence": "품질",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "OO쇼핑 믿고 쌌는데 앞으로는 믿지 못하겠습니다",
+        "category": "배송/서비스",
         "polarity": -1,
         "evidence": "품질",
         "evidence_span": null,
@@ -22310,7 +22310,7 @@
       {
         "term": "배송",
         "category": "배송/서비스",
-        "polarity": -1,
+        "polarity": 1,
         "evidence": "배송",
         "evidence_span": [
           0,
@@ -22334,7 +22334,7 @@
       {
         "term": "가격",
         "category": "가격",
-        "polarity": -1,
+        "polarity": 1,
         "evidence": "가격",
         "evidence_span": [
           20,
@@ -22345,22 +22345,13 @@
       },
       {
         "term": "털빠짐",
-        "category": "사후관리/서비스",
+        "category": "재질/원단",
         "polarity": -1,
         "evidence": "털빠짐",
         "evidence_span": [
           27,
           30
         ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 1,
-        "evidence": "색상",
-        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -22371,9 +22362,18 @@
     "sentence": "방수에 스타일도좋고 옷감도 견고해서 일상에서 야외활동 두루 섭옆인데 한번 빠니까 약간 수축해서 앞지퍼부분이 좀 운게 아쉽네요",
     "aspects": [
       {
-        "term": "사이즈/핏",
-        "category": "사이즈/핏",
-        "polarity": 0,
+        "term": "방수",
+        "category": "품질/내구성",
+        "polarity": 1,
+        "evidence": "사이즈/핏",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "스타일",
+        "category": "디자인/스타일",
+        "polarity": 1,
         "evidence": "사이즈/핏",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -22393,7 +22393,7 @@
       },
       {
         "term": "수축",
-        "category": "사이즈/핏",
+        "category": "사후관리/서비스",
         "polarity": -1,
         "evidence": "수축",
         "evidence_span": [
@@ -22434,7 +22434,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -22461,7 +22461,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "싼가버치에 극치",
         "category": "가격",
         "polarity": -1,
         "evidence": "가격",
@@ -22476,7 +22476,7 @@
     "sentence": "화이트 자켓 과 티에 이물질 얼룩져있고 세탁해도 지워지지않음 그리고 자켓2앞쟈크 제봉선이 고르지못함.",
     "aspects": [
       {
-        "term": "이물질",
+        "term": "이물질 얼룩",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "이물질",
@@ -22506,7 +22506,7 @@
     "sentence": "너무 편하고 좋으네요 정말좋은가격에 품질도 좋고 잘입겠습니다 가격이싸서혹시나싶어받자마자그물망에넣어 울세탁 코스했는데 옷감변형도 없고 품질 디테일도맘에 들고 두루두루 잘입을거같네요 예민한 우리아들도 맘에든다네요 그리고빠른교환해주신것도감사드려요~",
     "aspects": [
       {
-        "term": "편함",
+        "term": "편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -22539,7 +22539,7 @@
         "confidence": 1
       },
       {
-        "term": "세탁",
+        "term": "옷감변형",
         "category": "사후관리/서비스",
         "polarity": 1,
         "evidence": "세탁",
@@ -22581,7 +22581,7 @@
     "sentence": "가성비 짱입니다 두개의 집업점퍼도 품질 썩 괜찮구요 티셔츠는 신축성 좋은 시원할 것 같은데 하늘색은 너무 밝아서 입기 망설여진다지만 이 가격에 6종이라니 너무 좋네요",
     "aspects": [
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -22593,7 +22593,7 @@
         "confidence": 1
       },
       {
-        "term": "품질",
+        "term": "집업점퍼",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "품질",
@@ -22605,7 +22605,16 @@
         "confidence": 1
       },
       {
-        "term": "색상",
+        "term": "티셔츠",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "사이즈/핏",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "하늘색",
         "category": "색상",
         "polarity": -1,
         "evidence": "색상",
@@ -22628,15 +22637,6 @@
           12,
           15
         ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "원단",
-        "category": "재질/원단",
-        "polarity": -1,
-        "evidence": "원단",
-        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -22701,7 +22701,7 @@
         "confidence": 1
       },
       {
-        "term": "품질",
+        "term": "질",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "품질",
@@ -22782,7 +22782,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "땀 배출",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -22809,7 +22809,7 @@
         "confidence": 1
       },
       {
-        "term": "편안함",
+        "term": "편안하게",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편안함",
@@ -22848,7 +22848,43 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
+        "term": "자켓",
+        "category": "사이즈/핏",
+        "polarity": -1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "티",
+        "category": "사이즈/핏",
+        "polarity": -1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "긴바지",
+        "category": "사이즈/핏",
+        "polarity": -1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "반바지",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈",
@@ -22902,7 +22938,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "가볍고실크처럼부드러워요",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "원단",
@@ -22955,7 +22991,7 @@
       {
         "term": "솜",
         "category": "사후관리/서비스",
-        "polarity": -1,
+        "polarity": 1,
         "evidence": "솜",
         "evidence_span": [
           60,
@@ -22995,7 +23031,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "저렴해서",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -23145,17 +23181,8 @@
     "sentence": "한겨울에 단독으로 입을 수는 없지만 주로 실내에서 근무하기 때문에 출근용으로 입기 좋습니다~",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "단독으로 입기",
-        "category": "사이즈/핏",
+        "category": "재질/원단",
         "polarity": -1,
         "evidence": "단독으로 입기",
         "evidence_span": null,
@@ -23163,8 +23190,8 @@
         "confidence": 1
       },
       {
-        "term": "실내에서 근무하기",
-        "category": "착용감",
+        "term": "출근용",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "실내에서 근무하기",
         "evidence_span": [
@@ -23193,8 +23220,8 @@
         "confidence": 1
       },
       {
-        "term": "옷",
-        "category": "재질/원단",
+        "term": "가볍고 따뜻하다고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "옷",
         "evidence_span": [
@@ -23205,9 +23232,21 @@
         "confidence": 1
       },
       {
-        "term": "색상",
+        "term": "부드럽고",
+        "category": "재질/원단",
+        "polarity": 1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "색",
         "category": "색상",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "색상",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -23220,7 +23259,7 @@
     "sentence": "가볍고 따뜻합니다 헌데 안감이 누빔이라서 그런지 입으면 뒷트임이 좀 벌어지는데 그런대로 괜찮습니다",
     "aspects": [
       {
-        "term": "가볍고 따뜻함",
+        "term": "가볍고 따뜻합니다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 따뜻함",
@@ -23230,8 +23269,8 @@
       },
       {
         "term": "뒷트임",
-        "category": "사이즈/핏",
-        "polarity": -1,
+        "category": "품질/내구성",
+        "polarity": 0,
         "evidence": "뒷트임",
         "evidence_span": [
           31,
@@ -23247,16 +23286,16 @@
     "sentence": "별로입니다... 겨울에 따뜻하지도 않을거 같고 모직이 너무 얇고 안쪽도 그렇고.. 팔부분은 아애 없어서 초겨울에 입기에 적당합니다.. 그리고 울소재도 너무 싼티가 팍팍납니다. 마감도 재대로 되지않고 왠 이물질이 이렇게 많이 묻어있는지 스카치테이프로 때어 내느라 개고생... 반품할 시간이 없어서 깨끗하게 정리해서 불우이웃돕기에 쾌척했습니다.... 시간이 없어서....",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
+        "term": "따뜻하지도 않을거 같고",
+        "category": "착용감",
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "모직",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -23265,8 +23304,20 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
+        "term": "울소재",
+        "category": "재질/원단",
+        "polarity": -1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "마감",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "디자인",
         "evidence_span": null,
@@ -23274,32 +23325,11 @@
         "confidence": 1
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "evidence": "색상",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "품질",
+        "term": "이물질",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "품질",
         "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "마감",
-        "category": "사후관리/서비스",
-        "polarity": -1,
-        "evidence": "마감",
-        "evidence_span": [
-          98,
-          100
-        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -23394,7 +23424,7 @@
     "sentence": "가볍고 여름까지 충분히 입을듯하네요, 가성비 좋습니다",
     "aspects": [
       {
-        "term": "가볍고 여름까지 입을 수 있는 특성",
+        "term": "가볍고 여름까지 충분히 입을듯",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍고 여름까지 입을 수 있는 특성",
@@ -23403,7 +23433,7 @@
         "confidence": 1
       },
       {
-        "term": "가격대비 성능",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격대비 성능",
@@ -23430,7 +23460,7 @@
         "confidence": 1
       },
       {
-        "term": "배송",
+        "term": "느린배송",
         "category": "배송/서비스",
         "polarity": -1,
         "evidence": "배송",
@@ -23442,16 +23472,7 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": -1,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "디자인",
+        "term": "자켓",
         "category": "디자인/스타일",
         "polarity": -1,
         "evidence": "디자인",
@@ -23562,16 +23583,7 @@
         "confidence": 1
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": -1,
-        "evidence": "색상",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가격",
+        "term": "저렴하게",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -23586,16 +23598,7 @@
     "sentence": "패딩 자켓 늘 사고싶었는데 점퍼랑 같이 너무 싸게 샀어요. 두꺼운 옷을 질색하는 남편이 아주 잘 입고 다녀요. 손세탁 후에도 변형없이 잘 마르고 베리굿~",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 1,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가격",
+        "term": "싸게 샀어요",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -23604,7 +23607,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "패딩 자켓",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -23613,7 +23616,7 @@
         "confidence": 1
       },
       {
-        "term": "세탁",
+        "term": "세탁 후에도 변형없이",
         "category": "사후관리/서비스",
         "polarity": 1,
         "evidence": "세탁",
@@ -23631,19 +23634,7 @@
     "sentence": "검정과 브라운티셔츠 2개는 소재가 그리고급지진 않아요 얇은 가을면티처럼 두껍지않고 보온성이 없어보여요 그나마 회색티가 괜찮네요. 자켙은 마음에 들어요. 사이즈는 그리낙낙하지않고 간절기 잠시 입을정도의 두께감으로 패딩자켙이라지만 11월초지금 입기에도 얇고 보온성이 얼마나있을까 싶네요.그래서 세일했겠죠? 브랜드이미지 좋아샀고 편하게 입어야겠어요~",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": [
-          85,
-          88
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "원단",
+        "term": "소재",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -23652,20 +23643,23 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
-        "polarity": 1,
-        "evidence": "디자인",
+        "term": "사이즈",
+        "category": "사이즈/핏",
+        "polarity": -1,
+        "evidence": "색상",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "색상",
-        "category": "색상",
+        "term": "두께감",
+        "category": "재질/원단",
         "polarity": 0,
-        "evidence": "색상",
-        "evidence_span": null,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
@@ -23700,7 +23694,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "얇은감",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -23712,11 +23706,23 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "팔부분",
         "category": "착용감",
         "polarity": -1,
         "evidence": "착용감",
         "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "불편",
+        "category": "착용감",
+        "polarity": -1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          26,
+          29
+        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -23729,7 +23735,7 @@
       {
         "term": "사이즈",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           64,
@@ -23739,43 +23745,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
-        "polarity": -1,
-        "evidence": "원단",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "디자인",
-        "category": "디자인/스타일",
-        "polarity": -1,
-        "evidence": "디자인",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "evidence": "색상",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "배송",
-        "category": "배송/서비스",
-        "polarity": 1,
-        "evidence": "배송",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "착용감",
+        "term": "상당히 옷이 땡깁니다",
         "category": "착용감",
         "polarity": -1,
         "evidence": "착용감",
@@ -23784,7 +23754,7 @@
         "confidence": 1
       },
       {
-        "term": "품질",
+        "term": "박음질",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "품질",
@@ -23799,7 +23769,7 @@
     "sentence": "아버지 사드렸는데 입어보니 완전 편하고 재질도 좋다고 맘에 들어하세요 색상도 실용적이고 가격도 저렴하게 잘샀어요",
     "aspects": [
       {
-        "term": "편함",
+        "term": "편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -23862,7 +23832,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편합니다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -23885,7 +23855,7 @@
       {
         "term": "단추",
         "category": "디자인/스타일",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "단추",
         "evidence_span": [
           42,
@@ -23913,7 +23883,7 @@
     "sentence": "빠르게 배송왔어요.. 요즘계절에 딱 맞을거같고.. 블루는 여름에도 시원하게 입을거같네요. 정사이즈입니다..",
     "aspects": [
       {
-        "term": "빠른 배송",
+        "term": "배송",
         "category": "배송/서비스",
         "polarity": 1,
         "evidence": "빠른 배송",
@@ -23922,8 +23892,8 @@
         "confidence": 1
       },
       {
-        "term": "블루 색상",
-        "category": "색상",
+        "term": "시원하게",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "블루 색상",
         "evidence_span": null,
@@ -24054,7 +24024,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -24063,8 +24033,8 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
-        "category": "재질/원단",
+        "term": "따뜻합니다",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
         "evidence_span": null,
@@ -24080,21 +24050,12 @@
       {
         "term": "사이즈",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           154,
           157
         ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "배송",
-        "category": "배송/서비스",
-        "polarity": 1,
-        "evidence": "배송",
-        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
@@ -24117,7 +24078,7 @@
     "sentence": "가격이 저렴해서 속는 샘치고 구매했는데 가성비가 최고인것같군여",
     "aspects": [
       {
-        "term": "가격",
+        "term": "가격이 저렴해서",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -24147,7 +24108,7 @@
     "sentence": "부드럽구 따뜻하구 자켓으로 아주 멋져요. 색상두 부담되지않코 아주좋습니다. 중년남성분들.... 강추 입니다^^♡",
     "aspects": [
       {
-        "term": "따뜻한",
+        "term": "따뜻하구",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻한",
@@ -24156,7 +24117,7 @@
         "confidence": 1
       },
       {
-        "term": "부드럽다",
+        "term": "부드럽구",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "부드럽다",
@@ -24165,7 +24126,7 @@
         "confidence": 1
       },
       {
-        "term": "멋지다",
+        "term": "자켓",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "멋지다",
@@ -24204,7 +24165,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "넘얇아요",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -24231,7 +24192,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻하네요",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -24240,7 +24201,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "싸게",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -24267,7 +24228,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편하다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -24276,7 +24237,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "양면",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -24285,7 +24246,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -24297,8 +24258,8 @@
         "confidence": 1
       },
       {
-        "term": "품질",
-        "category": "품질/내구성",
+        "term": "따뜻할거같고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "품질",
         "evidence_span": null,
@@ -24324,7 +24285,7 @@
     "sentence": "가격대비 만족합니다 사이즈는 넉넉하게 주문하시길",
     "aspects": [
       {
-        "term": "가격대비 만족합니다",
+        "term": "가격대비 만족",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격대비 만족합니다",
@@ -24354,7 +24315,7 @@
     "sentence": "품질이 별로네요 너무 작고 얇아요",
     "aspects": [
       {
-        "term": "작고 얇아요",
+        "term": "작고",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "작고 얇아요",
@@ -24366,7 +24327,19 @@
         "confidence": 1
       },
       {
-        "term": "품질이 별로네요",
+        "term": "얇아요",
+        "category": "재질/원단",
+        "polarity": -1,
+        "evidence": "작고 얇아요",
+        "evidence_span": [
+          12,
+          18
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "품질",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "품질이 별로네요",
@@ -24396,7 +24369,7 @@
         "confidence": 1
       },
       {
-        "term": "불편함",
+        "term": "불편하지도 않고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "불편함",
@@ -24411,7 +24384,7 @@
     "sentence": "가격대비 저렴하고 좋아요 스판이 함유되어 편하네요",
     "aspects": [
       {
-        "term": "가격",
+        "term": "가격대비 저렴",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -24424,7 +24397,7 @@
       },
       {
         "term": "스판",
-        "category": "재질/원단",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "스판",
         "evidence_span": [
@@ -24453,8 +24426,20 @@
         "confidence": 1
       },
       {
+        "term": "가볍게 밖에 입고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "작고 얇아요",
+        "evidence_span": [
+          12,
+          18
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "신축성",
-        "category": "사이즈/핏",
+        "category": "재질/원단",
         "polarity": 1,
         "evidence": "신축성",
         "evidence_span": [
@@ -24495,7 +24480,7 @@
         "confidence": 1
       },
       {
-        "term": "품질",
+        "term": "퀄리티",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "품질",
@@ -24524,7 +24509,7 @@
       {
         "term": "색감",
         "category": "색상",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "색감",
         "evidence_span": [
           44,
@@ -24534,7 +24519,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "가볍고",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "원단",
@@ -24543,7 +24528,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "편안하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -24558,9 +24543,9 @@
     "sentence": "홈쇼핑에서 저렴한 자켓 사면 늘 실패였는데 그중에서도 최고로 저렴한 편이라 속는셈 치고 샀는데 기대 이상입니다. 정말 만족합니다. 완벽한 핏의 이라고 하진 못하더라도 무난한 스타일에 가격을 생각하면 득템이라는 생각이 절로 드네요.",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "핏",
         "category": "사이즈/핏",
-        "polarity": 1,
+        "polarity": 0,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -24579,9 +24564,9 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "스타일",
         "category": "디자인/스타일",
-        "polarity": 0,
+        "polarity": 1,
         "evidence": "디자인",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -24594,7 +24579,7 @@
     "sentence": "가격대비 품질 만족합니다..마감이 다소 허접한 느낌이지만 그정도는가격에비해 마감 괜찮은 편입니다 ..추천합니다다른 분꺼도 춪던합니다..선물하려고 합니다",
     "aspects": [
       {
-        "term": "가격대비 품질",
+        "term": "품질",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "가격대비 품질",
@@ -24624,16 +24609,28 @@
     "sentence": "가볍지만 떨어 너무 빠진다..깃떨이 있어서 천을 뚫고 나오네..집사람에게 사진 OO에서 나온 제품도 비슷한게 있는데 그건 그런게 없는데 역시 들어가 있는 소재가 달라서였네..원가 절감 하는 것도 좋지만 이러면 안돼지..반품할까 싶다..",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
+        "term": "가볍지만",
+        "category": "착용감",
+        "polarity": 1,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "털이 너무 빠진다",
+        "category": "품질/내구성",
+        "polarity": -1,
+        "evidence": "작고 얇아요",
+        "evidence_span": [
+          12,
+          18
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "소재",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -24682,15 +24679,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "디자인",
-        "category": "디자인/스타일",
-        "polarity": 1,
-        "evidence": "디자인",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -24723,7 +24711,7 @@
         "confidence": 1
       },
       {
-        "term": "길이",
+        "term": "짧아서 오히려 젊어보이네요",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "길이",
@@ -24773,6 +24761,18 @@
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
+      {
+        "term": "가볍고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "사이즈",
+        "evidence_span": [
+          18,
+          21
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },     
       {
         "term": "소재",
         "category": "재질/원단",
@@ -24858,8 +24858,8 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
+        "term": "여름철 입기 딱 좋습니다",
+        "category": "재질/원단",
         "polarity": 1,
         "evidence": "디자인",
         "evidence_span": null,
@@ -24903,7 +24903,7 @@
     "sentence": "단추부분 원단이 구겨진체로 와서 펴지지가않아서 입질않게되네요. 반품절차도번거롭고 산게 후회되네요.ㅠ 품질 마감 별루에요",
     "aspects": [
       {
-        "term": "구겨진 원단",
+        "term": "단추부분 원단",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "구겨진 원단",
@@ -24925,6 +24925,18 @@
       },
       {
         "term": "품질",
+        "category": "품질/내구성",
+        "polarity": -1,
+        "evidence": "품질",
+        "evidence_span": [
+          56,
+          58
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "마감",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "품질",
@@ -24984,7 +24996,7 @@
     "sentence": "가성비? 가격을 올라가도 깔끔한 마감을 했으면 합니다.",
     "aspects": [
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 0,
         "evidence": "가격",
@@ -25058,7 +25070,7 @@
       {
         "term": "소재",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "소재",
         "evidence_span": [
           31,
@@ -25074,7 +25086,7 @@
     "sentence": "소매기장이 하나는 맞고 하나는 길고 서로 달라요, 하나는 택도 없고,,,,고민중입니다, 소매도 내돈으로 손봐야되고,,,반품할까말까 고민중. 디자인도 안이뻐요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "소매기장",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "사이즈",
@@ -25100,18 +25112,6 @@
     "rid": 21770,
     "sentence": "첫 구매부터 실망 대단하네요 좋은옷이 가격이 싼게 아니라 그냥 싼 옷이네요 색상이 정말 이도저도 아닌 70대쯤이나 입으면 되려나 몇년 지난옷처럼 보이고 역시 돈주고 샀어야는거였어요",
     "aspects": [
-      {
-        "term": "가격",
-        "category": "가격",
-        "polarity": -1,
-        "evidence": "가격",
-        "evidence_span": [
-          21,
-          23
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
       {
         "term": "색상",
         "category": "색상",
@@ -25140,9 +25140,9 @@
     "sentence": "자켓2벌 가격이5만원대 좋고 가볍고 시원한데 자켓 어깨가 조금커서 교환할려다가 안했는데 수선집에 갔더니 구매가격보다 수선가격이 더 많이 나와 그냥 입고있음",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "어깨가 조금커서",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -25161,23 +25161,11 @@
         "confidence": 1
       },
       {
-        "term": "재질",
+        "term": "가볍고 시원한데",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "재질",
         "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "교환",
-        "category": "사후관리/서비스",
-        "polarity": -1,
-        "evidence": "교환",
-        "evidence_span": [
-          37,
-          39
-        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -25200,7 +25188,7 @@
         "confidence": 1
       },
       {
-        "term": "가볍고 시원한",
+        "term": "가볍고 시원하고",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "가볍고 시원한",
@@ -25222,7 +25210,7 @@
       },
       {
         "term": "어깨부분",
-        "category": "사이즈/핏",
+        "category": "디자인/스타일",
         "polarity": -1,
         "evidence": "어깨부분",
         "evidence_span": [
@@ -25281,7 +25269,7 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
+        "term": "몸에 잘 맞습니다",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "사이즈",
@@ -25296,18 +25284,9 @@
     "sentence": "구멍 슝슝 입니다. 그리고 얼기설기 한듯한데 원단에 힘이 있습니다. 잡고 돌리고 해봐도 구김 없습니다. 그렇다고 무게감도 없는건 이닙니다. 입어도 편하고 신축성도 좋습니다. 이가격 실화 인지.",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "원단",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 1,
         "evidence": "원단",
         "evidence_span": [
           25,
@@ -25329,9 +25308,9 @@
         "confidence": 1
       },
       {
-        "term": "무게",
+        "term": "무게감",
         "category": "품질/내구성",
-        "polarity": 0,
+        "polarity": 1,
         "evidence": "무게",
         "evidence_span": [
           63,
@@ -25341,7 +25320,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -25446,7 +25425,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편해서",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -25507,6 +25486,18 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
+      },
+      {
+        "term": "만듦새",
+        "category": "품질/내구성",
+        "polarity": -1,
+        "evidence": "기장",
+        "evidence_span": [
+          92,
+          94
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
       }
     ]
   },
@@ -25551,7 +25542,7 @@
         "confidence": 1
       },
       {
-        "term": "색상",
+        "term": "색감",
         "category": "색상",
         "polarity": 0,
         "evidence": "색상",
@@ -25560,11 +25551,23 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
+        "term": "편하고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "디자인",
         "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "더운 여름날씨에 입기에 최적",
+        "category": "사이즈/핏",
+        "polarity": 1,
+        "evidence": "기장",
+        "evidence_span": [
+          92,
+          94
+        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -25587,7 +25590,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인 안예쁘네요",
+        "term": "디자인",
         "category": "디자인/스타일",
         "polarity": -1,
         "evidence": "디자인 안예쁘네요",
@@ -25605,16 +25608,7 @@
     "sentence": "패딩자켓 을 원하던 남편을 위해 매장이곳저곳을 찾아다녔는데 그날밤 ㅇㅇ쇼핑에서 판매를 하는것을 보게되어서 구매했어요 상품받은뒤에 남편이 입어보더니 별로라고 하네요 올겨울 따뜻한 겨울은 못보낼것 같아요 디자인도 맘에 안들어요",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "원단",
+        "term": "따뜻한 겨울은 못보낼것 같아요",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -25665,9 +25659,9 @@
         "confidence": 1
       },
       {
-        "term": "품질",
-        "category": "품질/내구성",
-        "polarity": 0,
+        "term": "따뜻하게 입을 수 있을 것 같아요",
+        "category": "재질/원단",
+        "polarity": 1,
         "evidence": "품질",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -25686,7 +25680,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -25743,15 +25737,6 @@
     "sentence": "제가 직접 보지는 않았는데 고등학생 조카 입으라고 보냈거든요~좀 얇은가봐요 디자인도 맘에 안든데요",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "evidence": "사이즈",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "디자인",
         "category": "디자인/스타일",
         "polarity": -1,
@@ -25764,7 +25749,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "얇은가봐요",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -25791,7 +25776,7 @@
         "confidence": 1
       },
       {
-        "term": "세탁후 올이 생기는 것",
+        "term": "세탁후 올이 너무많이 생기네요",
         "category": "사후관리/서비스",
         "polarity": -1,
         "evidence": "세탁후 올이 생기는 것",
@@ -25874,7 +25859,7 @@
       {
         "term": "사이즈",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           19,
@@ -25884,9 +25869,18 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "가볍고",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 1,
+        "evidence": "원단",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "따뜻합니다",
+        "category": "착용감",
+        "polarity": 1,
         "evidence": "원단",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -25905,7 +25899,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "편합니다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -25974,8 +25968,8 @@
     "sentence": "무겁고 신축성이 없어서 별로입니다. 사이즈 표기도 잘못되어 반품합니다. 정확한 검수 서비스가 필요해 보입니다.",
     "aspects": [
       {
-        "term": "사이즈 표기",
-        "category": "사이즈/핏",
+        "term": "검수 서비스",
+        "category": "배송/서비스",
         "polarity": -1,
         "evidence": "사이즈 표기",
         "evidence_span": [
@@ -25994,6 +25988,15 @@
           4,
           7
         ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "무겁고",
+        "category": "재질/원단",
+        "polarity": -1,
+        "evidence": "원단",
+        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -26016,7 +26019,7 @@
         "confidence": 1
       },
       {
-        "term": "시원함",
+        "term": "시원해요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "시원함",
@@ -26031,7 +26034,7 @@
     "sentence": "선물했는데 가볍고 소재가 구김도 안가고 여름옷으로좋다고 하네요",
     "aspects": [
       {
-        "term": "가볍다",
+        "term": "가볍고",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "가볍다",
@@ -26040,10 +26043,19 @@
         "confidence": 1
       },
       {
-        "term": "구김이 안간다",
+        "term": "구김도 안가고",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "구김이 안간다",
+        "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "여름옷으로 좋다",
+        "category": "재질/원단",
+        "polarity": 1,
+        "evidence": "원단",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -26065,18 +26077,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "호칭수",
-        "category": "디자인/스타일",
-        "polarity": -1,
-        "evidence": "호칭수",
-        "evidence_span": [
-          13,
-          16
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -26085,7 +26085,7 @@
     "sentence": "입으면 시원하고 주름도 많이 안생기고 실용적인 옷이라 좋아요",
     "aspects": [
       {
-        "term": "입는 느낌",
+        "term": "시원하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "입는 느낌",
@@ -26102,6 +26102,15 @@
           9,
           11
         ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "실용적",
+        "category": "품질/내구성",
+        "polarity": 1,
+        "evidence": "원단",
+        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -26124,7 +26133,7 @@
         "confidence": 1
       },
       {
-        "term": "시원하고편하다",
+        "term": "시원하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "시원하고편하다",
@@ -26145,7 +26154,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "저렴한가격",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -26153,6 +26162,15 @@
           68,
           70
         ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "편하고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "원단",
+        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -26195,7 +26213,7 @@
       {
         "term": "사이즈",
         "category": "사이즈/핏",
-        "polarity": 1,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           73,
@@ -26205,7 +26223,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "실밥",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "원단",
@@ -26248,15 +26266,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "디자인",
-        "category": "디자인/스타일",
-        "polarity": 0,
-        "evidence": "디자인",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -26289,7 +26298,7 @@
         "confidence": 1
       },
       {
-        "term": "서비스",
+        "term": "옷걸이도 각각 2개 보네주는 센스",
         "category": "배송/서비스",
         "polarity": 1,
         "evidence": "서비스",
