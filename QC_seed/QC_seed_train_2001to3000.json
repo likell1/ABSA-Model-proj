@@ -33457,7 +33457,7 @@
     "sentence": "발목부분이 니트지만 너무 딱 붙지않아서 더 좋네요 신었을때 편하고 색상도 이뻐요 다른 색상으로 하나더 구매예정이예요",
     "aspects": [
       {
-        "term": "딱 붙지 않음",
+        "term": "딱 붙지 않아서",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "딱 붙지 않음",
@@ -33466,7 +33466,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -33475,7 +33475,7 @@
         "confidence": 1
       },
       {
-        "term": "색상 이쁨",
+        "term": "색상도 이뻐요",
         "category": "색상",
         "polarity": 1,
         "evidence": "색상 이쁨",
@@ -33490,7 +33490,7 @@
     "sentence": "저렴한 가격에 디자인도 맘에들고 가볍고 따뜻해서 올겨울 잘신을것 같아요.",
     "aspects": [
       {
-        "term": "가격",
+        "term": "저렴한 가격",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -33514,19 +33514,10 @@
         "confidence": 1
       },
       {
-        "term": "재질",
+        "term": "가볍고 따뜻해서",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "재질",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "착용감",
-        "category": "착용감",
-        "polarity": 1,
-        "evidence": "착용감",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -33550,9 +33541,9 @@
         "confidence": 1
       },
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
+        "term": "편하게 잘 신을듯",
+        "category": "착용감",
+        "polarity": 1,
         "evidence": "사이즈",
         "evidence_span": [
           48,
@@ -33562,7 +33553,7 @@
         "confidence": 1
       },
       {
-        "term": "밑창",
+        "term": "신발 밑창이 한쪽으로 치우쳐있어",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "밑창",
@@ -33580,7 +33571,7 @@
     "sentence": "편하게 신을 부츠 찾고 있었는데 티비 틀다 방송보고 구매 했네요 디자인도 괜찮고 퍼가 있어서 따뜻할거 같아요 근데 맨발로 신어 봤는데 발볼이 그리 넓은편은 아닌데 작아서인지 좀 끼네요 양말신고 신으면 작아서 불편한듯요 정사이즈는 아닌듯 왼쪽은 뭐가 뭍은건지 본드 자국인지 얼룩이 있고 뒷굽쪽에 까져 있어 교환 신청 합니다.",
     "aspects": [
       {
-        "term": "편함",
+        "term": "작아서 불편한듯요",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "편함",
@@ -33610,18 +33601,6 @@
         "confidence": 1
       },
       {
-        "term": "발볼",
-        "category": "사이즈/핏",
-        "polarity": -1,
-        "evidence": "발볼",
-        "evidence_span": [
-          75,
-          77
-        ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
         "term": "본드 자국",
         "category": "품질/내구성",
         "polarity": -1,
@@ -33640,7 +33619,7 @@
     "sentence": "남편이 크리스마스 선물로 사줬는데 따뜻하고 발이 너무 편해요 그런데 종아리쪽은 살짝 타이트해서 쓸리네요ㅠ",
     "aspects": [
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -33649,7 +33628,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편해요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -33658,7 +33637,7 @@
         "confidence": 1
       },
       {
-        "term": "타이트",
+        "term": "타이트해서 쓸리네요",
         "category": "사이즈/핏",
         "polarity": -1,
         "evidence": "타이트",
@@ -33700,7 +33679,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "내부 털",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "원단",
@@ -33709,7 +33688,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "아주 편한 것 같진 않아요",
         "category": "착용감",
         "polarity": -1,
         "evidence": "착용감",
@@ -33766,7 +33745,7 @@
         "confidence": 1
       },
       {
-        "term": "소가죽",
+        "term": "내피",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "소가죽",
@@ -33808,9 +33787,9 @@
     "sentence": "겨울신발이라서 반사이즈크게 주문했는데도 조금쪼이네요.한사이즈크게신으면 아주편할듯 하네요.하지만따뜻해서좋아요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "조금쪼이네요",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           9,
@@ -33820,8 +33799,8 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
-        "category": "품질/내구성",
+        "term": "따뜻해서좋아요",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
         "evidence_span": null,
@@ -33835,16 +33814,16 @@
     "sentence": "가볍고 편해요 싸이즈가조금크게나왓음 다이소가서 깔창 하나깔았더니 좋아요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "싸이즈",
         "category": "사이즈/핏",
-        "polarity": 1,
+        "polarity": 0,
         "evidence": "사이즈",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "가볍고 편해요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -33859,9 +33838,9 @@
     "sentence": "가죽소재로 앵클중에 롱스커트에 어울리는 디자인찾다 구입함 따뜻하고 가볍다 쫌 케쥬얼해서 정장 룩은 아님",
     "aspects": [
       {
-        "term": "디자인",
+        "term": "케쥬얼",
         "category": "디자인/스타일",
-        "polarity": 1,
+        "polarity": 0,
         "evidence": "디자인",
         "evidence_span": [
           22,
@@ -33871,8 +33850,8 @@
         "confidence": 1
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "따뜻하고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "원단",
         "evidence_span": null,
@@ -33880,23 +33859,11 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "가볍다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
         "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "케쥬얼",
-        "category": "디자인/스타일",
-        "polarity": -1,
-        "evidence": "케쥬얼",
-        "evidence_span": [
-          43,
-          46
-        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -33907,9 +33874,9 @@
     "sentence": "적당한 높이에 처음 착화느낌은 괜찮아요.정사이즈네요.근데 왼쪽이 살짝 크게 느껴집니다. 가격도 저렴하고 이쁘고 편하게 신을 수 있을것 같아요.실내착화만해서 밖은 나가봐야 알겠지만 편하겠죠?편하길 빌어요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "왼쪽이 살짝 크게 느껴집니다",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           23,
@@ -33931,7 +33898,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "이쁘고",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -33940,7 +33907,7 @@
         "confidence": 1
       },
       {
-        "term": "착용감",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "evidence": "착용감",
@@ -34004,7 +33971,7 @@
       },
       {
         "term": "발등쪽과 인솔부분이 퍼가 좀 부족해요",
-        "category": "디자인/스타일",
+        "category": "재질/원단",
         "polarity": -1,
         "evidence": "발등쪽과 인솔부분이 퍼가 좀 부족해요",
         "evidence_span": [
@@ -34033,7 +34000,7 @@
     "sentence": "이렇게 편안한 부츠는 처음이예요.너무따뜻하고 발이 편안해서 이부츠만 신고 다니는데 브라운 주문해서 잘 신고 있는데 블랙도 재구매 할거예요.소가죽인데 가성비갑 추천합니다.",
     "aspects": [
       {
-        "term": "편안함",
+        "term": "편안한 부츠",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편안함",
@@ -34042,7 +34009,7 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
+        "term": "너무따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -34051,8 +34018,8 @@
         "confidence": 1
       },
       {
-        "term": "소가죽",
-        "category": "재질/원단",
+        "term": "브라운",
+        "category": "색상",
         "polarity": 1,
         "evidence": "소가죽",
         "evidence_span": [
@@ -34093,8 +34060,8 @@
         "confidence": 1
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "털한쪽에 허연 빵꾸",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "원단",
         "evidence_span": null,
@@ -34108,7 +34075,7 @@
     "sentence": "따뜻하고 예쁘네요..키 높이도 적당하고, 걷기도 편해요",
     "aspects": [
       {
-        "term": "따뜻함",
+        "term": "따뜻하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
@@ -34117,7 +34084,7 @@
         "confidence": 1
       },
       {
-        "term": "예쁨",
+        "term": "예쁘네요",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "예쁨",
@@ -34127,7 +34094,7 @@
       },
       {
         "term": "키 높이",
-        "category": "사이즈/핏",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "키 높이",
         "evidence_span": [
@@ -34138,7 +34105,7 @@
         "confidence": 1
       },
       {
-        "term": "걷기 편함",
+        "term": "걷기도 편해요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "걷기 편함",
@@ -34154,7 +34121,7 @@
     "aspects": [
       {
         "term": "키높이",
-        "category": "사이즈/핏",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "키높이",
         "evidence_span": [
@@ -34177,7 +34144,7 @@
         "confidence": 1
       },
       {
-        "term": "발에피로감",
+        "term": "발에피로감이없어 좋아요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "발에피로감",
@@ -34189,13 +34156,25 @@
         "confidence": 1
       },
       {
-        "term": "브드러워",
+        "term": "발목부분이 브드러워",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "브드러워",
         "evidence_span": [
           129,
           133
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "땃뜻하고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -34231,7 +34210,7 @@
         "confidence": 1
       },
       {
-        "term": "가볍다",
+        "term": "가볍고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "가볍다",
@@ -34241,7 +34220,7 @@
       },
       {
         "term": "키높이",
-        "category": "사이즈/핏",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "키높이",
         "evidence_span": [
@@ -34252,8 +34231,8 @@
         "confidence": 1
       },
       {
-        "term": "따뜻하다",
-        "category": "재질/원단",
+        "term": "따뜻하게 자주 애용",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻하다",
         "evidence_span": null,
@@ -34328,7 +34307,7 @@
       },
       {
         "term": "본드냄새",
-        "category": "착용감",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "본드냄새",
         "evidence_span": [
@@ -34399,7 +34378,7 @@
         "confidence": 1
       },
       {
-        "term": "원단",
+        "term": "토끼털",
         "category": "재질/원단",
         "polarity": 1,
         "evidence": "원단",
@@ -34408,7 +34387,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "이쁘다고 좋아하시네요",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -34417,7 +34396,7 @@
         "confidence": 1
       },
       {
-        "term": "가격",
+        "term": "저렴하게 사서",
         "category": "가격",
         "polarity": 1,
         "evidence": "가격",
@@ -34426,11 +34405,23 @@
         "confidence": 1
       },
       {
-        "term": "품질",
-        "category": "품질/내구성",
+        "term": "굽도 편하고",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "품질",
         "evidence_span": null,
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "무게",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
+        ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -34453,7 +34444,7 @@
         "confidence": 1
       },
       {
-        "term": "옥에티",
+        "term": "손톱크기정도 흠이있지만",
         "category": "품질/내구성",
         "polarity": -1,
         "evidence": "옥에티",
@@ -34471,9 +34462,9 @@
     "sentence": "생각보다.털이풍성하진않앗지만각도에따라반짝이는컬이고급지네요.",
     "aspects": [
       {
-        "term": "털",
+        "term": "털이풍성하진않앗지만",
         "category": "재질/원단",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "털",
         "evidence_span": [
           5,
@@ -34484,7 +34475,7 @@
       },
       {
         "term": "컬",
-        "category": "색상",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "컬",
         "evidence_span": [
@@ -34495,7 +34486,7 @@
         "confidence": 1
       },
       {
-        "term": "고급지다",
+        "term": "고급지네요",
         "category": "품질/내구성",
         "polarity": 1,
         "evidence": "고급지다",
@@ -34517,6 +34508,18 @@
         "evidence_span": [
           0,
           7
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "디자인",
+        "category": "디자인/스타일",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -34564,6 +34567,18 @@
     "sentence": "가볍고 디자인도 이쁘고^^ 냄새가 심하게 나지만 베란다에 잠시 나뒀어요 ㅋㅋ잘산거같아요 좋아요",
     "aspects": [
       {
+        "term": "가볍고",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "디자인",
         "category": "디자인/스타일",
         "polarity": 1,
@@ -34577,7 +34592,7 @@
       },
       {
         "term": "냄새",
-        "category": "재질/원단",
+        "category": "품질/내구성",
         "polarity": -1,
         "evidence": "냄새",
         "evidence_span": [
@@ -34594,6 +34609,18 @@
     "sentence": "어머니께서 무척좋아하십니다 우선 고급스러우면서가격이 적당하고 방한화스럽지않고 클래식한멋스러움이있습니다 그러면서 따뜻합니다 사이즈도 맡고 마음에들어하시니 기분이좋습니다",
     "aspects": [
       {
+        "term": "고급스러우면서",
+        "category": "품질/내구성",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
         "term": "가격",
         "category": "가격",
         "polarity": 1,
@@ -34606,7 +34633,7 @@
         "confidence": 1
       },
       {
-        "term": "디자인",
+        "term": "클래식한멋스러움",
         "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "디자인",
@@ -34615,9 +34642,9 @@
         "confidence": 1
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
+        "term": "따뜻합니다",
+        "category": "착용감",
+        "polarity": 1,
         "evidence": "색상",
         "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
@@ -34634,15 +34661,6 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      },
-      {
-        "term": "착용감",
-        "category": "착용감",
-        "polarity": 1,
-        "evidence": "착용감",
-        "evidence_span": null,
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
       }
     ]
   },
@@ -34652,7 +34670,7 @@
     "aspects": [
       {
         "term": "굽높이",
-        "category": "사이즈/핏",
+        "category": "디자인/스타일",
         "polarity": 1,
         "evidence": "굽높이",
         "evidence_span": [
@@ -34663,7 +34681,7 @@
         "confidence": 1
       },
       {
-        "term": "바닥",
+        "term": "바닥도 푹신하고",
         "category": "착용감",
         "polarity": 1,
         "evidence": "바닥",
@@ -34687,7 +34705,7 @@
         "confidence": 1
       },
       {
-        "term": "앞뒤 소재",
+        "term": "앞뒤소재가달라서",
         "category": "재질/원단",
         "polarity": -1,
         "evidence": "앞뒤 소재",
@@ -34707,7 +34725,7 @@
       {
         "term": "시이즈",
         "category": "사이즈/핏",
-        "polarity": 0,
+        "polarity": -1,
         "evidence": "시이즈",
         "evidence_span": [
           9,
@@ -34727,6 +34745,18 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
+      },
+      {
+        "term": "가죽이 딱딱하고",
+        "category": "재질/원단",
+        "polarity": -1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
       }
     ]
   },
@@ -34735,7 +34765,7 @@
     "sentence": "엄마 드리려고 샀는데 맘에 들어 하세요. 발도 편안하다 하시고요. 따듯하다고 하세요. 정말 잘 산 것 같아요.",
     "aspects": [
       {
-        "term": "편안함",
+        "term": "편안하다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편안함",
@@ -34744,8 +34774,8 @@
         "confidence": 1
       },
       {
-        "term": "따뜻함",
-        "category": "품질/내구성",
+        "term": "따듯하다",
+        "category": "착용감",
         "polarity": 1,
         "evidence": "따뜻함",
         "evidence_span": null,
@@ -34761,7 +34791,7 @@
       {
         "term": "사이즈",
         "category": "사이즈/핏",
-        "polarity": 1,
+        "polarity": -1,
         "evidence": "사이즈",
         "evidence_span": [
           0,
@@ -34783,7 +34813,7 @@
         "confidence": 1
       },
       {
-        "term": "발",
+        "term": "발은 편안합니다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "발",
@@ -34801,7 +34831,7 @@
     "sentence": "230신는데 235샀더니 넉넉히 잘 맞아요. 품질또란 금강이라 그런지 아주 잘 만들었네요. 디자인이 약간 투박하지만 겨울신발이니. 좀 무게감이 느껴지지만 편하니까 용서가 되네요 키높이도 마음에 들고요. 가격대비 좋은 점이 많은 상품이네요.",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "넉넉히 잘 맞아요",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "사이즈",
@@ -34824,11 +34854,23 @@
       {
         "term": "디자인",
         "category": "디자인/스타일",
-        "polarity": -1,
+        "polarity": 0,
         "evidence": "디자인",
         "evidence_span": [
           51,
           54
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "무게감",
+        "category": "착용감",
+        "polarity": 0,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
@@ -34886,6 +34928,18 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
+      },
+      {
+        "term": "고급스러운 느낌",
+        "category": "품질/내구성",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
       }
     ]
   },
@@ -34894,7 +34948,7 @@
     "sentence": "어머니가 발 편한 신발원하셔서 주문해 드렸는데 좋데요. 싸이즈도 딱 맞고요. 많이 파세요.",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "싸이즈",
         "category": "사이즈/핏",
         "polarity": 1,
         "evidence": "사이즈",
@@ -34933,7 +34987,7 @@
         "confidence": 1
       },
       {
-        "term": "발",
+        "term": "발은 편합니다",
         "category": "착용감",
         "polarity": 1,
         "evidence": "발",
@@ -34953,15 +35007,6 @@
           86,
           88
         ],
-        "annotator": "ollama:qwen2.5:14b-instruct",
-        "confidence": 1
-      },
-      {
-        "term": "가격",
-        "category": "가격",
-        "polarity": 0,
-        "evidence": "가격",
-        "evidence_span": null,
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
       }
@@ -35015,6 +35060,18 @@
         "evidence_span": [
           65,
           68
+        ],
+        "annotator": "ollama:qwen2.5:14b-instruct",
+        "confidence": 1
+      },
+      {
+        "term": "가벼운 느낌",
+        "category": "착용감",
+        "polarity": 1,
+        "evidence": "디자인",
+        "evidence_span": [
+          107,
+          110
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
