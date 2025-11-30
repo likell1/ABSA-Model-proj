@@ -32798,7 +32798,7 @@
         ],
         "annotator": "ollama:qwen2.5:14b-instruct",
         "confidence": 1
-      }
+      },
       {
         "term": "신고 벗기 편하고",
         "category": "착용감",
@@ -33433,7 +33433,7 @@
         "confidence": 1
       },
       {
-        "term": "편함",
+        "term": "편하네요",
         "category": "착용감",
         "polarity": 1,
         "evidence": "편함",
@@ -33442,8 +33442,8 @@
         "confidence": 1
       },
       {
-        "term": "미끄러움",
-        "category": "착용감",
+        "term": "미끄러운게 단점",
+        "category": "재질/원단",
         "polarity": -1,
         "evidence": "미끄러움",
         "evidence_span": null,
