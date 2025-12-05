@@ -9602,7 +9602,7 @@
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
-      },
+      }
     ]
   },
   {
@@ -10018,7 +10018,7 @@
     "sentence": "평소 55반 입는데 66 넉넉하니 잘 맞아요 팔길이가 좀 길게 나왔는데 가성비가 좋으니 그냥 입으려구요 바느질 잘되어있고 가죽 괜찮아요~ 쿠폰써서 정말 저렴하게 구매했네요 오랜만에 맘에 드는 옷이에요",
     "aspects": [
       {
-        "term": "55반",
+        "term": "잘 맞아요",
         "category": "사이즈/핏",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10042,7 +10042,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "저렴하게 구매",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10066,21 +10066,9 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
+        "term": "봄 가을 잘 활용 할것 같네요",
         "category": "디자인/스타일",
         "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "가격",
-        "category": "가격",
-        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -10102,15 +10090,15 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "버클",
-        "category": "디자인/스타일",
+        "term": "버클 끼우기 조금은 불편",
+        "category": "착용감",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
-        "polarity": 1,
+        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -10126,13 +10114,13 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "앞면 뒷면 길이",
+        "term": "앞면 뒷면 길이도 다르고",
         "category": "사이즈/핏",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "여밈부분 천 두툼함",
+        "term": "여밈부분 천이 두툼해서",
         "category": "재질/원단",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -10168,14 +10156,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
+        "term": "싼띠나요",
         "category": "디자인/스타일",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "가격",
-        "category": "가격",
         "polarity": -1,
         "annotator": "hyeokjun"
       }
@@ -10202,12 +10184,6 @@
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 1,
-        "annotator": "hyeokjun"
       }
     ]
   },
@@ -10228,7 +10204,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "고리",
+        "term": "고리가 잘빠져요",
         "category": "품질/내구성",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -10236,7 +10212,7 @@
       {
         "term": "가볍게 입기",
         "category": "착용감",
-        "polarity": 1,
+        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -10258,7 +10234,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "착용감",
+        "term": "편안함",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10282,7 +10258,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "편함",
+        "term": "편했습니다",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10294,14 +10270,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "품질",
-        "category": "품질/내구성",
+        "term": "따뜻하게",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -10313,7 +10283,7 @@
     "aspects": [
       {
         "term": "안감",
-        "category": "착용감",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -10324,14 +10294,26 @@
         "annotator": "hyeokjun"
       },
       {
+        "term": "편하고",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
         "term": "바느질 상태",
         "category": "품질/내구성",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격대비 핏",
+        "term": "핏",
         "category": "사이즈/핏",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "가격대비",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -10342,32 +10324,26 @@
     "sentence": "네이비 77 사이즈 주문했는데 신축성 좋고 편하게 입을것 같습니다 적립금 있어서 저렴하게 구입했어요 여행할때 입으려고 구입했는데 여행시 입고 벗기 좋겠어요 구김이 없어서 휴대하기 좋구요 추천합니다",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "신축성",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "신축성",
+        "category": "재질/원단",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "저렴하게 구입",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "구김",
-        "category": "사후관리/서비스",
+        "term": "구김이 없어서",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -10377,12 +10353,6 @@
     "rid": 6707,
     "sentence": "77이 약간 큰듯하기도 하나. 66은 작을 듯도 하네요 색상이 너무 고급스럽고 핏이 예뻐요 원단도 고급스럽고 다른 칼라도 사고 싶어요",
     "aspects": [
-      {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
       {
         "term": "색상",
         "category": "색상",
@@ -10408,33 +10378,15 @@
     "sentence": "완전 싸구려티 팍팍나네요 반품시기를 놓쳐서 반품을 못하고 있는데요 지금이라도 반품하고 싶네요 홈쇼핑물건 별로라는 말은 들었지만 이정도일줄은.. 카라도 균형이 안 맞아요 바쁜일때문에 시간이 안되서 반품을 못한게 정말 억울하네요 사시려고 하는분은 참고하세요",
     "aspects": [
       {
-        "term": "싸구려",
+        "term": "싸구려티",
         "category": "품질/내구성",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
+        "term": "카라도 균형이 안 맞아요",
+        "category": "품질/내구성",
         "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "원단",
-        "category": "재질/원단",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "배송",
-        "category": "배송/서비스",
-        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -10456,20 +10408,20 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "착용감",
+        "term": "편하네요",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
+        "term": "주머니도 커서 실용적",
+        "category": "디자인/스타일",
+        "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "주름",
-        "category": "품질/내구성",
+        "term": "주름도 안가고",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -10480,8 +10432,8 @@
     "sentence": "매쉬소재 두벌에 나머지는 쪼끔 더운감이 살짝 있긴 한데 스판 좋고 굉장히 편하네요~ 좀 붙는가 싶은데 그래도 가격대비 품질이 좋아요. 윈드자켓도 사이즈 딱 좋네요 후드도 달려있고 허리끈도 있어서 라인을 만들 수 있어 마음에 들어요^^",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
+        "term": "편하네요",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -10504,7 +10456,19 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
+        "term": "윈드자켓도 사이즈 딱 좋네요",
+        "category": "사이즈/핏",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "후드",
+        "category": "디자인/스타일",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "허리끈",
         "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10524,23 +10488,23 @@
       {
         "term": "원단",
         "category": "재질/원단",
-        "polarity": 0,
+        "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "블랙같은 네이비",
         "category": "색상",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
+        "term": "봄가을 다 입을 수 있어 좋네요",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "싸게 사서",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10558,15 +10522,9 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
+        "term": "어깨가 좁아보이고 핏예뻐요",
         "category": "디자인/스타일",
         "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
         "annotator": "hyeokjun"
       },
       {
@@ -10606,7 +10564,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "착용감",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10624,14 +10582,8 @@
     "sentence": "보풀이 생길것 같은 재질입니다 빨간색이 살짝 작게 나왔어요 올 한철 막 입어도 될듯요 가벼운만큼 두껍지 않아요",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "작게 나왔어요",
         "category": "사이즈/핏",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
@@ -10642,8 +10594,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "착용감",
-        "category": "착용감",
+        "term": "가벼운만큼 두껍지 않아요",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -10660,14 +10612,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "핏",
+        "term": "입으면 좀 뚱뚱해 보여요",
         "category": "사이즈/핏",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "디자인",
-        "category": "디자인/스타일",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
@@ -10702,7 +10648,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "검정색",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10726,6 +10672,18 @@
         "annotator": "hyeokjun"
       },
       {
+        "term": "구김없이 포장되어 오고",
+        "category": "배송/서비스",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "핏",
+        "category": "사이즈/핏",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
         "term": "옷감",
         "category": "재질/원단",
         "polarity": 1,
@@ -10744,13 +10702,13 @@
     "sentence": "셔츠는 좀 크고 티는 넉넉히 맞네요 디자인은 통자지만 바느질은 꼼꼼한 편이에요 셔츠는 활용도가 높을듯! 걸치기만 해도 차려입은듯한 느낌이 들어 좋고 스커트 바지 모두 잘 어울려요",
     "aspects": [
       {
-        "term": "크고",
+        "term": "셔츠는 좀 크고",
         "category": "사이즈/핏",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "넉넉히",
+        "term": "티는 넉넉히 맞네요",
         "category": "사이즈/핏",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10768,8 +10726,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "활용도",
-        "category": "사이즈/핏",
+        "term": "셔츠는 활용도가 높을듯",
+        "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -10789,16 +10747,16 @@
   },
   {
     "rid": 6948,
-    "sentence": "생각했던 생각 두께가 마니 틀리고 소매쪽도 불 편해요",
+    "sentence": "생각했던 생각 두께가 마니 틀리고 소매쪽도 불편해요",
     "aspects": [
       {
         "term": "두께",
-        "category": "사이즈/핏",
+        "category": "재질/원단",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "소매",
+        "term": "소매쪽도 불편해요",
         "category": "착용감",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -10810,7 +10768,7 @@
     "sentence": "후회중 입니다 날씬해보이지도 않고... 디자인도 이쁘지도 않고 모자는 뻣뻣 하고ㅜㅜ 따뜻 하기는 합니다 주머니는 좀 불편해요 뚜껑 때문에...",
     "aspects": [
       {
-        "term": "날씬해보이지 않음",
+        "term": "날씬해보이지도 않고",
         "category": "사이즈/핏",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -10822,13 +10780,13 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "모자质地/材料",
-        "category": "품질/내구성",
+        "term": "모자는 뻣뻣",
+        "category": "재질/원단",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻 하기는 합니다",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10847,24 +10805,24 @@
     "aspects": [
       {
         "term": "신축성",
-        "category": "착용감",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "구김",
         "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "편함",
+        "term": "구김없고",
+        "category": "재질/원단",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "예쁨",
+        "term": "예쁘게",
         "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10882,14 +10840,14 @@
     "sentence": "가격대비만족합니다~신축성도있고색상도밝지않아서좋아요~~다좋은데바지싸이즈가좀크게나왔네요",
     "aspects": [
       {
-        "term": "가격대비",
+        "term": "가격대비만족",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
         "term": "신축성",
-        "category": "착용감",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -10900,7 +10858,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "바지사이즈",
+        "term": "바지싸이즈",
         "category": "사이즈/핏",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -10924,19 +10882,19 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
+        "term": "초여름까지도 입을 수 있겠어요",
+        "category": "착용감",
+        "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "가성비",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "품질",
+        "term": "가성비",
         "category": "품질/내구성",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -10955,7 +10913,7 @@
       },
       {
         "term": "신축성",
-        "category": "착용감",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -10990,21 +10948,15 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
+        "term": "저렴하여",
         "category": "가격",
         "polarity": 0,
         "annotator": "hyeokjun"
       },
       {
-        "term": "원단",
+        "term": "많이 얇아요",
         "category": "재질/원단",
         "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "착용감",
-        "category": "착용감",
-        "polarity": 1,
         "annotator": "hyeokjun"
       }
     ]
@@ -11014,13 +10966,19 @@
     "sentence": "여름자켓으로 재질이 얇은건 당연히 좋은데요. 소재가 너무 힘이 없어서인지 태가나질 않네요. 다른색상이 다 품절이라 브릭으로 했었는데 화이트였다면 낫지않았을까 싶구요. 착한가격에 2벌이라곤하지만 아무래도 손이 가질않을거 같아서 반품하려구요. 배송상태는 깔끔하고 좋았습니다.",
     "aspects": [
       {
-        "term": "재질",
+        "term": "재질이 얇은건",
+        "category": "재질/원단",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "소재가 너무 힘이 없어서",
         "category": "재질/원단",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "브릭",
         "category": "색상",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -11044,20 +11002,20 @@
     "sentence": "겨울만빼고는 모든계절 유용하게 쓰일수있을듯 합니다 사이즈도 크게나와 불편함이 전혀없구 하나 구매 후 다시 재구매했습니다 색상별로 다 구매하고싶습니다 쌀쌀한날 바람막이로도 최고예요",
     "aspects": [
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "디자인",
+        "term": "모든계절 유용하게 쓰일수있을듯",
         "category": "디자인/스타일",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "불편함이 전혀없구",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "바람막이로도 최고",
+        "category": "품질/내구성",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -11086,7 +11044,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "사이즈",
+        "term": "크게 나옴",
         "category": "사이즈/핏",
         "polarity": 0,
         "annotator": "hyeokjun"
@@ -11124,7 +11082,7 @@
       {
         "term": "재질",
         "category": "재질/원단",
-        "polarity": -1,
+        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -11146,7 +11104,19 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "레드",
+        "category": "색상",
+        "polarity": -1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "베이지",
+        "category": "색상",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "네이비",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11189,7 +11159,7 @@
       },
       {
         "term": "옷태",
-        "category": "착용감",
+        "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -11266,12 +11236,6 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
         "term": "품질",
         "category": "품질/내구성",
         "polarity": 1,
@@ -11290,6 +11254,12 @@
         "annotator": "hyeokjun"
       },
       {
+        "term": "편하고",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
         "term": "모피",
         "category": "재질/원단",
         "polarity": 1,
@@ -11302,9 +11272,15 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "핏",
+        "term": "앞여밈시 무릅아래부분이 벌어져서 핏이 안예뻐요",
         "category": "사이즈/핏",
         "polarity": -1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "오픈해서 입으면 핏이 이쁨",
+        "category": "사이즈/핏",
+        "polarity": 1,
         "annotator": "hyeokjun"
       }
     ]
@@ -11344,13 +11320,13 @@
     "sentence": "박스포장으로 안전하게 배송되었구요 겨울에 자주 이용하기에 딱 좋아요 체구가 작은 편인데 팔길이도 거추장스럽지 않아서 더 맘에 드네요",
     "aspects": [
       {
-        "term": "박스포장",
+        "term": "안전하게 배송",
         "category": "배송/서비스",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "사이즈",
+        "term": "팔길이",
         "category": "사이즈/핏",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11382,6 +11358,12 @@
       {
         "term": "가격",
         "category": "가격",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "디자인",
+        "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -11452,7 +11434,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "싸다",
+        "term": "싼 가격",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11464,7 +11446,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "편하다",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11483,12 +11465,6 @@
       },
       {
         "term": "마무리",
-        "category": "품질/내구성",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "봉제",
         "category": "품질/내구성",
         "polarity": -1,
         "annotator": "hyeokjun"
@@ -11536,14 +11512,14 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
+        "term": "가성비",
+        "category": "가격",
+        "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격",
-        "category": "가격",
+        "term": "가성비",
+        "category": "품질",
         "polarity": 1,
         "annotator": "hyeokjun"
       }
@@ -11578,7 +11554,7 @@
     "sentence": "1.가볍습니다. 2. 모직 함유량이 적당히 있어서 원단이 비교적 뻣뻣하지 않습니다. 3. 모자에 달린 폭스퍼도 풍성한 편입니다. 4. 리버시블 원단이라 두가지 연출이 가능합니다. 5. 평상시 66사이즈 착용하는데, 품이 넉넉한 편이어서 55사이즈로도 무난할 듯 합니다. 참고로 저는 55로 바꾸고 싶었지만, 번거로워서 그냥 입기로 했습니다.",
     "aspects": [
       {
-        "term": "가볍다",
+        "term": "가볍습니다",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11590,8 +11566,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "폭스퍼",
-        "category": "디자인/스타일",
+        "term": "폭스퍼도 풍성한 편",
+        "category": "재질/원단",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -11602,9 +11578,9 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "사이즈",
+        "term": "55사이즈",
         "category": "사이즈/핏",
-        "polarity": 1,
+        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -11620,27 +11596,27 @@
         "annotator": "hyeokjun"
       },
       {
+        "term": "가벼운데",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "따뜻하고",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
         "term": "핏",
         "category": "사이즈/핏",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "재질",
+        "term": "폭스퍼",
         "category": "재질/원단",
         "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "가격",
-        "category": "가격",
-        "polarity": 0,
         "annotator": "hyeokjun"
       }
     ]
@@ -11662,8 +11638,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "사이즈",
-        "category": "사이즈/핏",
+        "term": "무겁다길래",
+        "category": "착용감",
         "polarity": 0,
         "annotator": "hyeokjun"
       },
@@ -11674,7 +11650,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "착용감",
+        "term": "편하게",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11699,14 +11675,8 @@
       },
       {
         "term": "신축성",
-        "category": "착용감",
+        "category": "재질/원단",
         "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "색상",
-        "category": "색상",
-        "polarity": 0,
         "annotator": "hyeokjun"
       },
       {
@@ -11722,25 +11692,25 @@
     "sentence": "77이 매진되서 66구입했는데 조금 꽉 끼지만 입을만하네요 좀 무겁지만 따뜻할것같고 하늘색칼라가 더욱 이쁘네요 잘입을게요~~",
     "aspects": [
       {
-        "term": "사이즈",
+        "term": "조금 꽉 끼지만 입을만하네요",
         "category": "사이즈/핏",
         "polarity": 0,
         "annotator": "hyeokjun"
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "무겁지만",
+        "category": "착용감",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "디자인",
-        "category": "디자인/스타일",
+        "term": "따뜻할것같고",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "하늘색칼라",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11752,13 +11722,19 @@
     "sentence": "가격대비 품질 만족도최상입니다 퍼프네이비색갈도예쁘고 사이즈 잘맞고 기장이좀길어서 무계가나가는거같아요 디자인이 아주고급져보이는코트예요 감사합니다",
     "aspects": [
       {
+        "term": "가격대비",
+        "category": "가격",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
         "term": "품질",
         "category": "품질/내구성",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "색갈",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11788,7 +11764,7 @@
     "sentence": "와우~~색이 정말 이뻐요 핏도 좋고 조금 길이가 더 길었음 좋았겠다싶어요. 이가격에 이정도품질 좋습니다~^^",
     "aspects": [
       {
-        "term": "색상",
+        "term": "색",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11824,7 +11800,7 @@
     "sentence": "홈쇼핑보고 엄마 선물드렸는데 가격대비 완전 만족입니다 평소 88~99 정도입는데 L사이즈구매했어요. 안에 두껍게입으면 타이트하고 목폴라나 얇은 니트 종류입으면 딱 예쁠것 같아요 무엇보다 무게감이 없는게 겨울에 가볍지만 따듯하게 입을수 있을것 같습니다~ 사진은 제가 두꺼운 잠옷 입고 입은거라 작아보이지만 88사이즈는충분히 입으실것 같아요 엄마는 키가 작으신편이고 뱃살이 좀있으신데 입어보니 배도 쏙 가려주고 소매가 짧아",
     "aspects": [
       {
-        "term": "가격대비 만족",
+        "term": "가격대비 완전 만족",
         "category": "가격",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11843,14 +11819,14 @@
       },
       {
         "term": "무게감이 없는게 겨울에 가볍지만 따듯하게 입을수 있을것 같습니다",
-        "category": "품질/내구성",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
         "term": "배도 쏙 가려주고 소매가 짧아",
         "category": "사이즈/핏",
-        "polarity": -1,
+        "polarity": 1,
         "annotator": "hyeokjun"
       }
     ]
@@ -11860,14 +11836,20 @@
     "sentence": "생각보다가볍구여 핏이 슬림하궁 겁나 따뜻해요 잠깐 사진찍는데 더워 죽는줄ㅜㅜ목에 이중으로 걸개? 장식이 있어서 바람부는날은 그걸개를 채우면 목도리않해두대여 물론 지퍼 내려서 브이넥으로 입어두 이뽀요. 가성비 매우 우수! 그냥 데일리로 편히 입고 외출하기 좋은 외투에염다운+무스탕 조합이 나쁘지않네요♥ 이가격에 이정도 퀄리티면 전 매우만족입니당!",
     "aspects": [
       {
-        "term": "핏",
-        "category": "사이즈/핏",
+        "term": "가볍구여",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "따뜻해요",
+        "category": "착용감",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "편히입고",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
@@ -11884,7 +11866,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "품질",
+        "term": "퀄리티",
         "category": "품질/내구성",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11902,14 +11884,14 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "색상",
+        "term": "색감",
         "category": "색상",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "주머니는 꽤 깊어요",
+        "category": "디자인/스타일",
         "polarity": 0,
         "annotator": "hyeokjun"
       },
@@ -11938,20 +11920,8 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "배송",
-        "category": "배송/서비스",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "착용감",
-        "category": "착용감",
-        "polarity": 1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "원단",
-        "category": "재질/원단",
+        "term": "이너에 검은잔털이 많이 묻어나네요",
+        "category": "품질/내구성",
         "polarity": -1,
         "annotator": "hyeokjun"
       }
@@ -11974,7 +11944,7 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "따뜻함",
+        "term": "따뜻할것 같습니다",
         "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -11998,25 +11968,31 @@
         "annotator": "hyeokjun"
       },
       {
-        "term": "두께",
-        "category": "재질/원단",
-        "polarity": 0,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "베이지색",
-        "category": "색상",
+        "term": "무겁지도 아주 가볍지도 않은",
+        "category": "착용감",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "구겨짐",
-        "category": "착용감",
+        "term": "두껍지도 얇지도 않고",
+        "category": "재질/원단",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "데일리로 잘입을거같아요",
+        "category": "디자인/스타일",
+        "polarity": 1,
+        "annotator": "hyeokjun"
+      },
+      {
+        "term": "조금 구겨져와서",
+        "category": "배송/서비스",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "가격대비 품질",
+        "term": "품질",
         "category": "품질/내구성",
         "polarity": 1,
         "annotator": "hyeokjun"
@@ -12028,32 +12004,26 @@
     "sentence": "다크네이비는 진한네이비인듯ㅠ 뒷편 자수는 예쁘더라구요. 안에 착용되어있는 조끼는 입기 불편해요. 구매후 반품하기 귀찮아서 2.3번 착용후 옷걸이에 그대로 걸어놨어요. 따뜻하다는 느낌이 들지가 않습니다.",
     "aspects": [
       {
-        "term": "색상",
+        "term": "다크네이비",
         "category": "색상",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "자수",
+        "term": "뒷편 자수",
         "category": "디자인/스타일",
         "polarity": 1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "조끼",
+        "term": "조끼는 입기 불편",
         "category": "착용감",
         "polarity": -1,
         "annotator": "hyeokjun"
       },
       {
-        "term": "배송",
-        "category": "배송/서비스",
-        "polarity": -1,
-        "annotator": "hyeokjun"
-      },
-      {
-        "term": "따뜻함",
-        "category": "품질/내구성",
+        "term": "따뜻하다는 느낌이 들지가 않습니다",
+        "category": "착용감",
         "polarity": -1,
         "annotator": "hyeokjun"
       }
